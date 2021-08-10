@@ -5,4 +5,4 @@
   
   Given these facts regarding the number of smaller bank failures as a percentage of the total number of bank failures, improvement in both the methodology of developing an adequate loan loss reserve and the credit risk management of these banks is necessary for the survival of smaller banks in the future.
   
-  @ Copyright Sciencedirect.com
+  @ Sciencedirect.com All Right Reserved
